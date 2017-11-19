@@ -1,4 +1,4 @@
-# HDR_image
+# HDR Image
 Implement HDR(high dynamic range) image processing in Matlab
 
 ## What is HDR image?
@@ -17,5 +17,5 @@ Implement HDR(high dynamic range) image processing in Matlab
 ![alt text](https://github.com/eric-yyjau/HDR_image/blob/master/Best_result.bmp)
 
 ## Detailed materials and other results
-[Report]()
+[Report](https://github.com/eric-yyjau/HDR_image/blob/master/VFX_HW1_HDR_report(2).pdf)
 
