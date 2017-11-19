@@ -1,5 +1,7 @@
 # HDR_image
-Implement HDR image processing in Matlab
+Implement HDR(high dynamic range) image processing in Matlab
+
+## What is HDR image?
 
 ## How to run the program?
 - working environment : matlab 2014b
@@ -10,3 +12,10 @@ Implement HDR image processing in Matlab
   - A reconstructe HDR radiance map.
   - A HDR picture reconstucted by matlab.
   - Three G function of R,G,B.
+
+## Best Result
+![alt text](https://github.com/eric-yyjau/HDR_image/blob/master/Best_result.bmp)
+
+## Detailed materials and other results
+[Report]()
+
